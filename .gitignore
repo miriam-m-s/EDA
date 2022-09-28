@@ -20,6 +20,16 @@
 *.filters
 *.vcxproj.user
 *.exe.recipe
+*.VC.db
+*.tlog
+*.ilk
+*.pdb
+*.suo
+*.VC.db-wal
+*.VC.opendb
+*.VC.shm
+*.log
+*.idb
 
 # Fortran module files
 *.mod
