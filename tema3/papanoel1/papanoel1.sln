@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "papanoel1", "papanoel1\papanoel1.vcxproj", "{A9211548-152F-4F80-9FAF-7AB7F45F91E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9211548-152F-4F80-9FAF-7AB7F45F91E8}.Debug|x64.ActiveCfg = Debug|x64
+		{A9211548-152F-4F80-9FAF-7AB7F45F91E8}.Debug|x64.Build.0 = Debug|x64
+		{A9211548-152F-4F80-9FAF-7AB7F45F91E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9211548-152F-4F80-9FAF-7AB7F45F91E8}.Debug|x86.Build.0 = Debug|Win32
+		{A9211548-152F-4F80-9FAF-7AB7F45F91E8}.Release|x64.ActiveCfg = Release|x64
+		{A9211548-152F-4F80-9FAF-7AB7F45F91E8}.Release|x64.Build.0 = Release|x64
+		{A9211548-152F-4F80-9FAF-7AB7F45F91E8}.Release|x86.ActiveCfg = Release|Win32
+		{A9211548-152F-4F80-9FAF-7AB7F45F91E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56245B09-9B54-420A-B962-4A7FEA7BDD4A}
+	EndGlobalSection
+EndGlobal
