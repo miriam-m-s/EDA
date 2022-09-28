@@ -1,0 +1,65 @@
+64
+nuevoLibro 1 La vuelta al mundo en 80 dias
+elimLibro Viaje al centro de la tierra
+comprar La vuelta al mundo en 80 dias
+nuevoLibro 1 La vuelta al mundo en 80 dias
+comprar La vuelta al mundo en 80 dias
+nuevoLibro 1 La vuelta al mundo en 80 dias
+comprar La vuelta al mundo en 80 dias
+numEjemplares La vuelta al mundo en 80 dias
+nuevoLibro 5 Viaje al centro de la tierra
+comprar Viaje al centro de la tierra
+comprar Viaje al centro de la tierra
+nuevoLibro 4 De la tierra a la luna
+top10
+nuevoLibro 3 20.000 leguas de viaje submarino
+numEjemplares 20.000 leguas de viaje submarino
+numEjemplares Viaje al centro de la tierra
+comprar 20.000 leguas de viaje submarino
+numEjemplares 20.000 leguas de viaje submarino
+top10
+nuevoLibro 6 Miguel Strogoff
+nuevoLibro 6 Miguel Strogoff
+numEjemplares Miguel Strogoff
+nuevoLibro 6 Cinco semanas en globo
+nuevoLibro 6 La luz del fin del mundo
+nuevoLibro 6 La isla misteriosa
+nuevoLibro 6 Los hijos del capitan Grant
+nuevoLibro 6 Las aventuras del capitan Hatteras
+nuevoLibro 6 Alrededor de la Luna
+nuevoLibro 6 Aventuras de tres rusos y tres ingleses en el Africa austral
+nuevoLibro 6 Las tribulaciones de un chino en China
+nuevoLibro 6 Un capitan de quince anios
+comprar Miguel Strogoff
+comprar Cinco semanas en globo
+comprar La luz del fin del mundo
+comprar La isla misteriosa
+comprar Los hijos del capitan Grant
+comprar Las aventuras del capitan Hatteras
+comprar Alrededor de la Luna
+comprar Aventuras de tres rusos y tres ingleses en el Africa austral
+comprar Las tribulaciones de un chino en China
+comprar Un capitan de quince anios
+top10
+comprar Miguel Strogoff
+comprar Cinco semanas en globo
+comprar La luz del fin del mundo
+comprar La isla misteriosa
+comprar Los hijos del capitan Grant
+comprar Las aventuras del capitan Hatteras
+comprar Alrededor de la Luna
+comprar Aventuras de tres rusos y tres ingleses en el Africa austral
+comprar Las tribulaciones de un chino en China
+comprar Un capitan de quince anios
+top10
+comprar Miguel Strogoff
+comprar Cinco semanas en globo
+comprar La luz del fin del mundo
+comprar La isla misteriosa
+comprar Los hijos del capitan Grant
+comprar Las aventuras del capitan Hatteras
+comprar Alrededor de la Luna
+comprar Aventuras de tres rusos y tres ingleses en el Africa austral
+comprar Las tribulaciones de un chino en China
+comprar Un capitan de quince anios
+top10
